@@ -1,0 +1,3 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-react"]  //@babel/preset-env基本语法的兼容性处理 @babel/preset-react react语法的兼容性处理
+}  
